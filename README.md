@@ -41,6 +41,7 @@
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/198caca0399adb14d18eb0740984b0abe6edb09f/Snipaste_2026-05-18_21-58-05.png)
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/f40505b9180ad908f49fcff359513e955cd7742f/Snipaste_2026-05-18_21-59-53.png)
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/6ef47d3ab4459594877861dbdd4294bafbce976c/Snipaste_2026-05-18_22-01-48.png)
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/996f68143511d97a30e09450832e35ea4ac6769d/Snipaste_2026-05-18_22-03-33.png)
   
 - Command used: chmod 600 configs/app.conf
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/a21f5356ca497330771c7cf3f0979528c4bad2b6/Snipaste_2026-05-18_21-36-30.png)
