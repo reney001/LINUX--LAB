@@ -20,6 +20,8 @@
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/b63aac77933779d58b06354808e053dfe5f32141/Snipaste_2026-05-18_20-43-55.png)
 
 - Used grep to find ERROR and WARNING entries
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/0a73bf39a3aa2f514f0834052093afd3fef04054/Snipaste_2026-05-18_20-46-30.png)
+  
 - Used tail -f to monitor logs live
 
 ## Part 3 — Permissions & Ownership
