@@ -30,6 +30,10 @@
 
 ### Task 7 — Script Permissions
 - Made deploy.sh executable using chmod +x
+
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/0194066b7a1d5543958487acb135a387c3896017/Snipaste_2026-05-18_21-23-51.png)
+
+  
 - Command used: chmod +x scripts/deploy.sh
 
 ### Task 8 — Secure Config File
