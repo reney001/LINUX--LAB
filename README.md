@@ -90,3 +90,6 @@ memory usage
 finding server ip
 -ip address
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/19443903ee5d4464c1c669f1ffa29548d0b5a5fd/Snipaste_2026-05-18_22-21-54.png)
+
+hostname
+![image alt](https://github.com/reney001/LINUX--LAB/blob/d6aca0926479c15a9bf6f0e732e901b3a23a2f4e/Snipaste_2026-05-18_22-22-28.png)
