@@ -42,6 +42,7 @@
 - Secured app.conf so only owner can read and write
 
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/198caca0399adb14d18eb0740984b0abe6edb09f/Snipaste_2026-05-18_21-58-05.png)
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/f40505b9180ad908f49fcff359513e955cd7742f/Snipaste_2026-05-18_21-59-53.png)
   
 - Command used: chmod 600 configs/app.conf
 
