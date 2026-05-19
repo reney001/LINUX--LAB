@@ -23,6 +23,7 @@
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/0a73bf39a3aa2f514f0834052093afd3fef04054/Snipaste_2026-05-18_20-46-30.png)
   
 - Used tail -f to monitor logs live
+![image alt](https://github.com/reney001/LINUX--LAB/blob/2b99bb4b634326444e9b4613ebb1eaaa15d638a3/Snipaste_2026-05-18_20-47-19.png)
 
 ## Part 3 — Permissions & Ownership
 
