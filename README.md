@@ -2,9 +2,13 @@
 
 ## Part 1 — File Management
 - Created devops-project folder structure
-- Created logs, backups, scripts, configs, temp folders
 
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/e9e53634ef81329081826e9d572af20eee3a65a1/Snipaste_2026-05-18_20-28-27.png)
+
+- Created logs, backups, scripts, configs, temp folders
+
+![image alt](https://github.com/reney001/LINUX--LAB/blob/883df567c9ab3f497301a0315149335f5f2dd7d1/Snipaste_2026-05-18_20-33-09.png)
+
 
 ## Part 2 — File Viewing & Log Investigation
 - Used grep to find ERROR and WARNING entries
