@@ -58,9 +58,12 @@ Used for regular files like text and config files.
 Used for sensitive files like passwords, SSH keys and config files.
 
  Process Management
-Start Background Process
+-Start Background Process
 
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/0dc5f1abe4c53c6741f6c8122d0de4d2b304b7be/Snipaste_2026-05-18_22-07-48.png)
 
+identify process 
+-finding pid and process name 
+![image alt](https://github.com/reney001/LINUX--LAB/blob/6c7f4acdafa7e3353fad9081b40f1a141cbdf463/Snipaste_2026-05-18_22-09-27.png)
 
 
