@@ -4,6 +4,8 @@
 - Created devops-project folder structure
 - Created logs, backups, scripts, configs, temp folders
 
+![image alt](https://github.com/reney001/LINUX--LAB/blob/e9e53634ef81329081826e9d572af20eee3a65a1/Snipaste_2026-05-18_20-28-27.png)
+
 ## Part 2 — File Viewing & Log Investigation
 - Used grep to find ERROR and WARNING entries
 - Used tail -f to monitor logs live
