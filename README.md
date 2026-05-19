@@ -65,5 +65,5 @@ Used for sensitive files like passwords, SSH keys and config files.
 identify process 
 -finding pid and process name 
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/6c7f4acdafa7e3353fad9081b40f1a141cbdf463/Snipaste_2026-05-18_22-09-27.png)
-
+![image alt](https://github.com/reney001/LINUX--LAB/blob/931d888f4db4ba5ff35e2365adfaa3832bdb14ce/Snipaste_2026-05-18_22-11-15.png)
 
