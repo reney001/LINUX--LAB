@@ -69,3 +69,6 @@ identify process
 terminate process
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/931d888f4db4ba5ff35e2365adfaa3832bdb14ce/Snipaste_2026-05-18_22-11-15.png)
 
+checking running process
+![image alt](https://github.com/reney001/LINUX--LAB/blob/60c1ed77113df6517d53e4487d7feaa4a67ceb67/Snipaste_2026-05-18_22-15-16.png)
+
