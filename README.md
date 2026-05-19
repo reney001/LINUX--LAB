@@ -36,6 +36,8 @@
   
 - Command used: chmod +x scripts/deploy.sh
 
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/265a9c2f116d85b28840d9f1ed7beca358e8e8c1/Snipaste_2026-05-18_21-36-30.png)
+
 ### Task 8 — Secure Config File
 - Secured app.conf so only owner can read and write
 - Command used: chmod 600 configs/app.conf
