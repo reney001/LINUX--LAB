@@ -35,9 +35,6 @@
 
   
 - Command used: chmod +x scripts/deploy.sh
-
-  ![image alt](https://github.com/reney001/LINUX--LAB/blob/265a9c2f116d85b28840d9f1ed7beca358e8e8c1/Snipaste_2026-05-18_21-36-30.png)
-
 ### Task 8 — Secure Config File
 - Secured app.conf so only owner can read and write
 
@@ -45,6 +42,7 @@
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/f40505b9180ad908f49fcff359513e955cd7742f/Snipaste_2026-05-18_21-59-53.png)
   
 - Command used: chmod 600 configs/app.conf
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/a21f5356ca497330771c7cf3f0979528c4bad2b6/Snipaste_2026-05-18_21-36-30.png)
 
 ### Task 9 — Permission Explanations
 
