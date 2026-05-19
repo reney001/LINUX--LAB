@@ -96,5 +96,10 @@ hostname
 
 
 testing internet connectivity 
-- 4 pachets transmitted and 4 icmp packets received
+- 4 packets transmitted and 4 icmp packets received
   ![image alt](https://github.com/reney001/LINUX--LAB/blob/be0848a4421847844a17cbda65a9292d21ef7654/Snipaste_2026-05-18_22-23-54.png)
+
+  verifying listening ports
+  confirmed ssh service and web server are listening on ports
+
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/0c1b18b67cfad0fe1348cac6194323fb9d2e1b20/Snipaste_2026-05-18_22-29-46.png)
