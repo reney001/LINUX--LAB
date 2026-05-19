@@ -81,3 +81,6 @@ checking running process
 cpu usage 
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/60116eea5f42a362b9ee6cc5bcde7cc2a09e1649/Snipaste_2026-05-18_22-17-05.png)
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/2922579b516406c715119aec99fea43085b42a2f/Snipaste_2026-05-18_22-17-22.png)
+
+memory usage
+![image alt](https://github.com/reney001/LINUX--LAB/blob/007bbd94d1794affd72bb053b757ed096c321a68/Snipaste_2026-05-18_22-17-38.png)
