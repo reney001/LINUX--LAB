@@ -93,3 +93,8 @@ finding server ip
 
 hostname
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/d6aca0926479c15a9bf6f0e732e901b3a23a2f4e/Snipaste_2026-05-18_22-22-28.png)
+
+
+testing internet connectivity 
+- 4 pachets transmitted and 4 icmp packets received
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/be0848a4421847844a17cbda65a9292d21ef7654/Snipaste_2026-05-18_22-23-54.png)
