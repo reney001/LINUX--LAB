@@ -75,3 +75,4 @@ checking running process
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/47f013a31c2d76ca7e010d93d3f91c1e9633bf17/Snipaste_2026-05-18_22-15-58.png)
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/584544fd05bed9541c6251d8c357936734e3e2f2/Snipaste_2026-05-18_22-16-16.png)
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/2a5a85077c6f48ec0ed28fd854c2af72a18f55de/Snipaste_2026-05-18_22-16-33.png)
+![image alt](https://github.com/reney001/LINUX--LAB/blob/170872a6e6228f1d25972c3c3b507b10ad73b2e6/Snipaste_2026-05-18_22-16-50.png)
