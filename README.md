@@ -84,3 +84,4 @@ cpu usage
 
 memory usage
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/007bbd94d1794affd72bb053b757ed096c321a68/Snipaste_2026-05-18_22-17-38.png)
+![image alt](https://github.com/reney001/LINUX--LAB/blob/9360e186b7b2c2fd50d62a85f8b5081a1e47e656/Snipaste_2026-05-18_22-17-53.png)
