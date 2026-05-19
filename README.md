@@ -40,6 +40,9 @@
 
 ### Task 8 — Secure Config File
 - Secured app.conf so only owner can read and write
+
+  ![image alt](https://github.com/reney001/LINUX--LAB/blob/198caca0399adb14d18eb0740984b0abe6edb09f/Snipaste_2026-05-18_21-58-05.png)
+  
 - Command used: chmod 600 configs/app.conf
 
 ### Task 9 — Permission Explanations
