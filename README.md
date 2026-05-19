@@ -15,6 +15,10 @@
 
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/f375820b4eb391c6d681a754d0240a9b02da3b62/Snipaste_2026-05-18_20-39-24.png)
 
+-copy backup
+
+![image alt](https://github.com/reney001/LINUX--LAB/blob/b63aac77933779d58b06354808e053dfe5f32141/Snipaste_2026-05-18_20-43-55.png)
+
 - Used grep to find ERROR and WARNING entries
 - Used tail -f to monitor logs live
 
