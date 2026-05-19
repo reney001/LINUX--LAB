@@ -57,4 +57,7 @@ Used for regular files like text and config files.
 600 — Owner can read and write only. Nobody else has any access.
 Used for sensitive files like passwords, SSH keys and config files.
 
+![image alt](https://github.com/reney001/LINUX--LAB/blob/0dc5f1abe4c53c6741f6c8122d0de4d2b304b7be/Snipaste_2026-05-18_22-07-48.png)
+
+
 
