@@ -71,4 +71,5 @@ terminate process
 
 checking running process
 ![image alt](https://github.com/reney001/LINUX--LAB/blob/60c1ed77113df6517d53e4487d7feaa4a67ceb67/Snipaste_2026-05-18_22-15-16.png)
+![image alt](https://github.com/reney001/LINUX--LAB/blob/daff5d031302221c448e8bdb954e83fd4b97816f/Snipaste_2026-05-18_22-15-40.png)
 
